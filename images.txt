@@ -1,1 +1,1 @@
---platform=linux/arm64   library/go:1.24.1-alpine   go:1.24.1-apline  
+--platform=linux/arm64   golang:1.24-alpine   golang:1.24-apline  
