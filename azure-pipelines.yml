@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu:24:04
+  vmImage: ubuntu:24.04
   options: --platform arm64  # 参数说明：https://docs.docker.com/reference/cli/docker/container/create/
 
 steps:
